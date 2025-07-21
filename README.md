@@ -2,21 +2,6 @@
 
 This project aims to classify mobile phones into 4 different price categories (ranging from 0 to 3) using various features like battery power, RAM, screen size, camera resolution, etc., with the help of supervised machine learning models.
 
----
-
-## 📂 Table of Contents
-- [About the Project](#about-the-project)
-- [Dataset](#dataset)
-- [Tech Stack](#tech-stack)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Model Building](#model-building)
-- [Model Evaluation](#model-evaluation)
-- [Model Explainability](#model-explainability)
-- [Final Model](#final-model)
-- [Conclusion](#conclusion)
-- [Results](#results)
-- [Project Demo](#ProjectDemo)
-- [Contact](#contact)
 
 ---
 
